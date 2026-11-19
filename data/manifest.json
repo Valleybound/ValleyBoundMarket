@@ -1,14 +1,6 @@
 {
  "files": [
   {
-   "collected": 1794203145,
-   "file": "1794203145.json",
-   "items": 565,
-   "markets": 8,
-   "sha256": "c19c45c72b9524020134bb576804315eee44d860cf1377961e96fbf3ecb9fe97",
-   "size": 175234
-  },
-  {
    "collected": 1794206749,
    "file": "1794206749.json",
    "items": 565,
@@ -1695,8 +1687,16 @@
    "markets": 8,
    "sha256": "1860d420f6a4137142615b82c8747fe81a501c72c142175d744a6043656138f0",
    "size": 170719
+  },
+  {
+   "collected": 1795067144,
+   "file": "1795067144.json",
+   "items": 558,
+   "markets": 8,
+   "sha256": "af2425a87f38c10a7438315eb75e7c27312f78f7e5d04ace533704df1faa4bc6",
+   "size": 170719
   }
  ],
  "format": 1,
- "generated": 1795063859
+ "generated": 1795067383
 }
