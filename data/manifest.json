@@ -1,14 +1,6 @@
 {
  "files": [
   {
-   "collected": 1794384048,
-   "file": "1794384048.json",
-   "items": 557,
-   "markets": 8,
-   "sha256": "de83dcc9bd3096ab9e1f5c063b204da84194daffe5504f62f46c2e0e42a788ea",
-   "size": 172895
-  },
-  {
    "collected": 1794389453,
    "file": "1794389453.json",
    "items": 557,
@@ -1674,5 +1666,5 @@
   }
  ],
  "format": 1,
- "generated": 1795243779
+ "generated": 1795250721
 }
